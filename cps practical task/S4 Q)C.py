@@ -9,3 +9,5 @@ elif age <= 17:
 elif age <=64:
     if card == "y":
         print("Ticket price:£8.00")
+elif age >= 65:
+    print("Ticket price: £6.00")
