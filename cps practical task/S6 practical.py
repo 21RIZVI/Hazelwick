@@ -23,6 +23,7 @@ while option != 5:
     elif option == 4:
         total = len(list)
         print(total)
-    elif option > 5:
         print()
+    elif option > 5:
         print("invalid option,please choose 1-5")
+        print()
